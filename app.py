@@ -13,7 +13,7 @@ if IS_WINDOWS:
     from matcher import process_extracted_lines
 
 st.set_page_config(
-    page_title="ME 104 Attendance Tracker (Gemini AI)",
+    page_title="Mechatronics Student Group Attendance and Vote Tracker",
     page_icon="🤖",
     layout="wide"
 )
@@ -34,7 +34,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("🤖 ME 104 Attendance & Voter Tracker")
+st.title("🤖 Mechatronics Student Group Attendance and Vote Tracker")
 st.caption("Powered by **Gemini Multimodal Vision API** with automatic nickname mapping and absentee tracking.")
 
 # Sidebar Settings
