@@ -28,7 +28,7 @@ TASK:
 5. Return ONLY a valid JSON object matching the requested schema.
 """
 
-def analyze_screenshots_with_gemini(image_bytes_list: list[bytes], api_key: str, model_name: str = "gemini-2.5-flash"):
+def analyze_screenshots_with_gemini(image_bytes_list: list[bytes], api_key: str, model_name: str = "gemini-3.8-flash"):
     """
     Analyzes multiple screenshots simultaneously using Gemini Multimodal Vision.
     Returns:
