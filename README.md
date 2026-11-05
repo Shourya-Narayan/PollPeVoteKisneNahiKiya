@@ -1,6 +1,6 @@
-# ME 104 Poll Attendance & Absentee Tracker
+# Poll Attendance & Absentee Tracker
 
-An automated tool built specifically for **Mechanical Workshop [ME 104] (60 Students)** to process WhatsApp poll screenshots, map real-world WhatsApp nicknames/aliases to official roll numbers, and compute missing/absent students automatically.
+An automated tool built specifically for MECHATRONICS students to process WhatsApp poll screenshots, map real-world WhatsApp nicknames/aliases to official roll numbers, and compute missing/absent students automatically.
 
 ---
 
